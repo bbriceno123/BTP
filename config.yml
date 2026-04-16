@@ -1,0 +1,4 @@
+stages:
+  build:
+    mbtBuild:
+      buildDescriptor: "myfirstapp/mta.yaml"

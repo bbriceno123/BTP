@@ -1,7 +1,7 @@
 <mvc:View controllerName="custom.myfirstapp.controller.View1"
     xmlns:mvc="sap.ui.core.mvc"
     xmlns="sap.m">
-    <Page id="pages" title="{i18n>title}">
+    <Page id="page" title="{i18n>title}">
         <Button type="Accept"
                 text="Accept"
                 press="onPress"
